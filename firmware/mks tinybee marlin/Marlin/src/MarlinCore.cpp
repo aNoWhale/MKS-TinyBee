@@ -282,6 +282,8 @@ bool wait_for_heatup = true;
 
 /**
  * Sensitive pin test for M42, M226
+ * 
+ * 
  */
 
 #include "pins/sensitive_pins.h"

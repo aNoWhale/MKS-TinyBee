@@ -200,8 +200,8 @@ namespace Language_zh_CN {
   LSTR MSG_UBL_7_SAVE_MESH                = _UxGT("7. 保存热床网格");
 
   LSTR MSG_LED_CONTROL                    = _UxGT("LED控制");     // "LED Control")
-  LSTR MSG_LEDS                           = _UxGT("灯");     // "Lights")
-  LSTR MSG_LED_PRESETS                    = _UxGT("灯预置");     // "Light Presets")
+  LSTR MSG_LEDS                           = _UxGT("灯光");     // "Lights")
+  LSTR MSG_LED_PRESETS                    = _UxGT("灯光预置");     // "Light Presets")
   LSTR MSG_SET_LEDS_RED                   = _UxGT("红");     // "Red")
   LSTR MSG_SET_LEDS_ORANGE                = _UxGT("橙");     // "Orange")
   LSTR MSG_SET_LEDS_YELLOW                = _UxGT("黄");     // "Yellow")
@@ -211,7 +211,7 @@ namespace Language_zh_CN {
   LSTR MSG_SET_LEDS_VIOLET                = _UxGT("紫");     // "Violet")
   LSTR MSG_SET_LEDS_WHITE                 = _UxGT("白");     // "White")
   LSTR MSG_SET_LEDS_DEFAULT               = _UxGT("缺省");     // "Default")
-  LSTR MSG_CUSTOM_LEDS                    = _UxGT("定制灯");     // "Custom Lights")
+  LSTR MSG_CUSTOM_LEDS                    = _UxGT("定制灯光");     // "Custom Lights")
   LSTR MSG_INTENSITY_R                    = _UxGT("红饱和度");     // "Red Intensity")
   LSTR MSG_INTENSITY_G                    = _UxGT("绿饱和度");     // "Green Intensity")
   LSTR MSG_INTENSITY_B                    = _UxGT("蓝饱和度");     // "Blue Intensity")
